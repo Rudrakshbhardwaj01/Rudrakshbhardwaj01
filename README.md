@@ -128,7 +128,7 @@ Thanks for visiting — let’s build the future together!
   <img src="https://img.shields.io/badge/Email-00B8A9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://x.com/rudrakshb01">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-37474F?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"/>
+  <img src="https://img.shields.io/badge/X%20(Twitter)-37474F?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
 </a>
 
 </div>

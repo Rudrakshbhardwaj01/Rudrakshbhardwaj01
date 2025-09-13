@@ -1,12 +1,6 @@
 <!-- Rudraksh Bhardwaj | Modern GitHub Profile README -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00B8A9&center=true&width=900&lines=Hi!+I+am+Rudraksh+Bhardwaj%2C+an+aspiring+computer+engineer.;Programming+%7C+Web+Dev+%7C+Data+Science+%7C+ML+%7C+AI+Enthusiast!" alt="Typing SVG" />
-</p>
-
----
-
-## 👋 Welcome!
+##  Welcome!
 
 Hey there!  
 I'm **Rudraksh Bhardwaj**, an aspiring computer engineer with a love for turning ideas into code and solving real-world challenges.  
@@ -121,9 +115,6 @@ Thanks for visiting — let’s build the future together!
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudrakshbhardwaj01&theme=github_dark" height="178" alt="Repos per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudrakshbhardwaj01&theme=github_dark" height="178" alt="Profile Details"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rudrakshbhardwaj01&theme=github_dark" height="178" alt="Stats Card"/>
-
-<!-- FIXED SNAKE ANIMATION: Use the recommended SVG path from the main branch (for GitHub Actions and public visibility) -->
-<img src="https://github.com/Rudrakshbhardwaj01/Rudrakshbhardwaj01/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 

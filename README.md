@@ -114,11 +114,6 @@ Thanks for visiting — let's build the future together!
 
 <br>
 
-<!-- Repos per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rudrakshbhardwaj01&theme=github_dark" height="178" alt="Repos per Language"/>
-
-<br>
-
 <!-- Profile Details -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudrakshbhardwaj01&theme=github_dark" height="178" alt="Profile Details"/>
 

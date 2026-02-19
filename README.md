@@ -3,10 +3,8 @@
 ##  Welcome!
 
 Hey there!  
-I'm **Rudraksh Bhardwaj**, an aspiring computer engineer with a love for turning ideas into code and solving real-world challenges.  
-I'm passionate about **programming**, **web development**, **data science**, **machine learning**, and **artificial intelligence**.  
-I thrive on exploring new technologies and collaborating with talented people.  
-Thanks for visiting — let's build the future together! 
+I'm **Rudraksh Bhardwaj**, building real-world systems at the intersection of web, data, ML, and AI.
+
 
 ---
 

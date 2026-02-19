@@ -66,14 +66,14 @@ Thanks for visiting — let's build the future together!
 ---
 ## Featured Projects
 
-<div style="display:flex; gap:24px; align-items:flex-start;">
-
-<!-- LEFT: PROJECTS -->
-<div style="flex:1;">
+<table>
+<tr>
+<td valign="top" width="70%">
 
 <p>
 <b><a href="https://github.com/Rudrakshbhardwaj01/research-paper-summarizer">Research Paper Summarizer</a></b><br>
 <i>Summarize research papers using Python, LangChain, and HuggingFace.</i><br>
+
 <img src="https://img.shields.io/badge/Python-00B8A9?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-00B8A9?style=flat-square&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/HuggingFace-FFD54F?style=flat-square&logo=huggingface&logoColor=black">
@@ -84,6 +84,7 @@ Thanks for visiting — let's build the future together!
 <p>
 <b><a href="https://github.com/Rudrakshbhardwaj01/Shinkansen-Car-Rental">Shinkansen Car Rental</a></b><br>
 <i>Console-based car rental system implemented in C++.</i><br>
+
 <img src="https://img.shields.io/badge/C++-2979FF?style=flat-square&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/github/stars/Rudrakshbhardwaj01/Shinkansen-Car-Rental?label=Stars&style=flat-square&color=00B8A9">
 <img src="https://img.shields.io/github/forks/Rudrakshbhardwaj01/Shinkansen-Car-Rental?label=Forks&style=flat-square&color=00B8A9">
@@ -92,20 +93,23 @@ Thanks for visiting — let's build the future together!
 <p>
 <b><a href="https://github.com/Rudrakshbhardwaj01/RAG-implementation-using-LangChain">RAG Implementation using LangChain</a></b><br>
 <i>Retrieval Augmented Generation (RAG) with Python & LangChain.</i><br>
+
 <img src="https://img.shields.io/badge/Python-00B8A9?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-00B8A9?style=flat-square&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/github/stars/Rudrakshbhardwaj01/RAG-implementation-using-LangChain?label=Stars&style=flat-square&color=00B8A9">
 <img src="https://img.shields.io/github/forks/Rudrakshbhardwaj01/RAG-implementation-using-LangChain?label=Forks&style=flat-square&color=00B8A9">
 </p>
 
-</div>
+</td>
 
-<!-- RIGHT: GIF -->
-<div style="flex-shrink:0;">
-<img src="./assets/Greninja.webp" width="200" alt="Greninja Animation">
-</div>
+<td valign="top" width="30%" align="center">
 
-</div>
+<img src="./assets/flygon.gif" width="200"><br><br>
+<img src="./assets/Greninja.webp" width="200">
+
+</td>
+</tr>
+</table>
 
 ##  GitHub Stats & Contributions
 

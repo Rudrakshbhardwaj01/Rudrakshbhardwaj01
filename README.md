@@ -128,8 +128,8 @@ I'm **Rudraksh Bhardwaj**, building real-world systems at the intersection of we
 
 </div>
 
-![GitHub Snake Light](https://github.com/niharika-278/rudrakshbhardwaj01/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/niharika-278/rudrakshbhardwaj01/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/rudrakshbhardwaj01/rudrakshbhardwaj01/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/rudrakshbhardwaj01/rudrakshbhardwaj01/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ---
 
 ##  Contact

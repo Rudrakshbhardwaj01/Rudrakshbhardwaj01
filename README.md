@@ -114,17 +114,17 @@ I'm **Rudraksh Bhardwaj**, building real-world systems at the intersection of we
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudrakshbhardwaj01&theme=github-dark-blue&hide_border=true" height="178" alt="GitHub Streak"/>
+<img src="https://readme-stats-fast.vercel.app/api/streak?username=Rudrakshbhardwaj01&theme=tokyonight&hide_border=true" height="178"/>
 
 <br>
 
 <!-- Profile Details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudrakshbhardwaj01&theme=github_dark" height="178" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rudrakshbhardwaj01&theme=tokyonight" height="178"/>
 
 <br>
 
 <!-- Stats Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rudrakshbhardwaj01&theme=github_dark" height="178" alt="Stats Card"/>
+<img src="https://readme-stats-fast.vercel.app/api?username=Rudrakshbhardwaj01&show_icons=true&theme=tokyonight&hide_border=true" height="178"/>
 
 </div>
 

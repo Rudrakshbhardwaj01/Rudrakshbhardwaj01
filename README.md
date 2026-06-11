@@ -76,7 +76,6 @@ I'm **Rudraksh Bhardwaj**, building real-world systems at the intersection of we
 <img src="https://img.shields.io/badge/LangChain-00B8A9?style=flat-square&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/HuggingFace-FFD54F?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/github/stars/Rudrakshbhardwaj01/research-paper-summarizer?label=Stars&style=flat-square&color=00B8A9">
-<img src="https://img.shields.io/github/forks/Rudrakshbhardwaj01/research-paper-summarizer?label=Forks&style=flat-square&color=00B8A9">
 </p>
 
 <p>
@@ -85,7 +84,6 @@ I'm **Rudraksh Bhardwaj**, building real-world systems at the intersection of we
 
 <img src="https://img.shields.io/badge/C++-2979FF?style=flat-square&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/github/stars/Rudrakshbhardwaj01/Shinkansen-Car-Rental?label=Stars&style=flat-square&color=00B8A9">
-<img src="https://img.shields.io/github/forks/Rudrakshbhardwaj01/Shinkansen-Car-Rental?label=Forks&style=flat-square&color=00B8A9">
 </p>
 
 <p>
